@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 57.1 (101010) - https://sketch.com -->
+    <title>13CC8602-47F1-4E3A-A7AB-5FD9FDC55A8A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M20,24.166668 C19.7788352,24.1670617 19.5665846,24.0795233 19.41,23.9233333 L11.91,16.4233333 C11.584152,16.0974853 11.584152,15.5691813 11.91,15.2433333 C12.235848,14.9174853 12.764152,14.9174853 13.09,15.2433333 L20,22.155 L26.91,15.2433333 C27.235848,14.9174853 27.764152,14.9174853 28.09,15.2433333 C28.415848,15.5691813 28.415848,16.0974853 28.09,16.4233333 L20.59,23.9233333 C20.4334154,24.0795233 20.2211648,24.1670617 20,24.166668 Z" id="path-1"/>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Direction/Chevron/ico_chevron_down">
+            <g id="Icon" transform="translate(-8.000000, -8.000000)">
+                <rect id="Rectangle" x="0" y="0" width="40" height="40"/>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"/>
+                </mask>
+                <g id="ico_chevron_down"/>
+                <g id="color-palette/Black" mask="url(#mask-2)" fill="#706F6F">
+                    <rect id="Rectangle" x="0" y="0" width="40" height="40"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <defs/>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="Flag-EN_svg__b" fill="#fff">
+      <circle cx="8" cy="8" r="8"/>
+    </mask>
+    <circle stroke="#FFF" cx="8" cy="8" r="7.5"/>
+    <g mask="url(#Flag-EN_svg__b)">
+      <path fill="#FFF" d="M-8 15.748h31.484V0H-8z"/>
+      <path fill="#CF142B" d="M6.167 0v6.296H-8v3.148H6.167v6.304h3.15V9.444h14.167V6.296H9.316V0z"/>
+      <path fill="#00247D" d="M10.366 0v5.098L20.56 0zM10.366 15.748H20.56l-10.193-5.097zM-5.076 15.748H5.117v-5.097zM-5.076 0L5.117 5.098V0zM15.914 5.25h7.57V1.463zM15.914 10.499l7.57 3.785V10.5z"/>
+      <path fill="#CF142B" d="M21.735 0L11.257 5.25h1.749L23.5 0zM4.226 10.499H2.478L-8 15.748h1.749l10.494-5.25zM-8 0v.88L.743 5.253h1.749zM12.986 10.497l10.492 5.253v-.88l-8.743-4.373z"/>
+    </g>
+  </g>
+</svg>
